@@ -1,0 +1,8 @@
+.filters{
+    display: flex;
+}
+
+.overall-filter{
+    padding-right: 1rem;
+    margin-bottom: 1rem;
+}

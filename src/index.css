@@ -1,0 +1,30 @@
+/* Fonts are included in the public folder */
+@font-face {
+  font-family: NeutraText;
+  src: url('../public/assets/fonts/NeutraText-Book.otf');
+}
+
+:root{
+  --primary-color: '#322625';
+  --secondary-color: '#ebebeb';
+  --tertiary-color: '#c0e3e5';
+  --quaternary-color: '#fdc936'
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: NeutraText;
+}
+
+.clip-loader{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+

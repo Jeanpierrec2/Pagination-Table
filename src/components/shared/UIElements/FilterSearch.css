@@ -1,0 +1,12 @@
+.filter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-icon{
+    color:#ebebeb ;
+    margin-top: .8rem;
+    cursor: pointer;
+    margin-right: .7rem;
+}
